@@ -4,5 +4,8 @@
   "description": "Sümeyye Ersürer - Fizyoterapist CV",
   "scripts": {
     "start": "npx serve ."
+  },
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
   }
 }
