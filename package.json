@@ -1,0 +1,8 @@
+{
+  "name": "sumeyye-ersurer-cv",
+  "version": "1.0.0",
+  "description": "Sümeyye Ersürer - Fizyoterapist CV",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
